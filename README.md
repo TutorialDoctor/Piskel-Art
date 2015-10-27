@@ -6,7 +6,7 @@ Images of all submitted objects should be updated in the readme using their **25
 
 ## Characters:
 
-
+Base character image removed for consideration.
 [](Characters/chr_base/256/chr_base_256.png)
 
 
