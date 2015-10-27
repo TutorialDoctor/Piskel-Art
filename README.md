@@ -7,7 +7,7 @@ Images of all submitted objects should be updated in the readme using their **25
 ## Characters:
 
 
-![](Characters/chr_base/256/chr_base_256.png)
+[](Characters/chr_base/256/chr_base_256.png)
 
 - chr_base
 
@@ -22,4 +22,4 @@ Images of all submitted objects should be updated in the readme using their **25
 - skin_hair
 - clth_beach
 
-[@TutorialDoctor]()
+[@TutorialDoctor](https://twitter.com/TutorialDoctor)
