@@ -1,25 +1,8 @@
-This is a collaborative, free collection of game assets made with [@piskelapp]()
+An environment is a collection of objects that make a setting.
 
-If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
-
-Images of all submitted objects should be updated in the readme using their **256px versions**.
-
-## Characters:
-
-
-![](Characters/chr_base/256/chr_base_256.png)
-
-- chr_base
-
-
-![](Characters/chr_beach/256/chr_beach_256.png)
-
-- chr_beach
-
-## Palettes
-
-- skin
-- skin_hair
-- clth_beach
-
-[@TutorialDoctor]()
+The naming convention for environments is env_environmentName_version
+Examples:
+env_park_day
+env_park_night
+env_park_winter
+env_park_spring
