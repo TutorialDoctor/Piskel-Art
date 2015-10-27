@@ -1,3 +1,4 @@
+(WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp]()
 
 If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
