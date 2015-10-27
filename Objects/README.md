@@ -1,25 +1,9 @@
-This is a collaborative, free collection of game assets made with [@piskelapp]()
+A prop is an **inanimate** object. Things like tables, chairs, and buildings fall under this category. A tree on the other hand would be a character *if it is animated*. 
 
-If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
+- If a door is animated, it belongs under the character category
 
-Images of all submitted objects should be updated in the readme using their **256px versions**.
-
-## Characters:
-
-
-![](Characters/chr_base/256/chr_base_256.png)
-
-- chr_base
-
-
-![](Characters/chr_beach/256/chr_beach_256.png)
-
-- chr_beach
-
-## Palettes
-
-- skin
-- skin_hair
-- clth_beach
-
-[@TutorialDoctor]()
+- **The naming convention** for props is **prop_propName_version**
+	- Examples:
+	 - prop_door_dark
+	 - prop_door_maple
+	 - prop_door_cherry
