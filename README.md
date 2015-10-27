@@ -1,3 +1,4 @@
+![](example.png)
 # (WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp]()
 
