@@ -1,25 +1,10 @@
-This is a collaborative, free collection of game assets made with [@piskelapp]()
+A scene is a **collection** of props, environments and characters.
 
-If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
+- **The naming convention** for scenes is **scn_environmentName_sceneName_version**
+	- Examples:
+		- scn_park_day_childrenPlaying
+		- scn_park_night
+		- scn_park_winter
+		- scn_park_spring 
 
-Images of all submitted objects should be updated in the readme using their **256px versions**.
-
-## Characters:
-
-
-![](Characters/chr_base/256/chr_base_256.png)
-
-- chr_base
-
-
-![](Characters/chr_beach/256/chr_beach_256.png)
-
-- chr_beach
-
-## Palettes
-
-- skin
-- skin_hair
-- clth_beach
-
-[@TutorialDoctor]()
+- All scenes must use submitted environments. So, when making a scene, submit the environment separately as well.
