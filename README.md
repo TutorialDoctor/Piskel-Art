@@ -1,4 +1,5 @@
 ![](example.png)
+*Running in the Godot game engine*
 # (WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp]()
 
