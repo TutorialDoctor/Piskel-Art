@@ -7,7 +7,7 @@ Images of all submitted objects should be updated in the readme using their **25
 ## Characters:
 
 
-![](Characters/chr_base/256/chr_base256.png)
+![](Characters/chr_base/256/chr_base_256.png)
 
 - chr_base
 
