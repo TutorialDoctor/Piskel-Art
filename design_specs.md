@@ -75,7 +75,7 @@ An environment is a collection of objects that make a **setting**.
 
 ## Scenes
 <hr>
-A scene is a collection of props, environments and characters.
+A scene is a **collection** of props, environments and characters.
 
 - **The naming convention** for scenes is **scn_environmentName_sceneName_version**
 	- Examples:
