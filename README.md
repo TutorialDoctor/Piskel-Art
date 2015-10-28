@@ -1,5 +1,6 @@
+![](example.png =800x)
 # (WIP)
-This is a collaborative, free collection of game assets made with [@piskelapp]()
+This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
 If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
 
@@ -14,6 +15,14 @@ Base character image removed for consideration.
 ![](Characters/chr_beach/256/chr_beach_256.png)
 
 - chr_beach
+
+![](Characters/chr_batman/256/chr_batman_256.png)
+
+- chr_batman
+
+![](Characters/chr_scythian/256/chr_scythian_256.png)
+
+- chr_scythian
 
 ## Palettes
 
