@@ -34,3 +34,8 @@ Base character image removed for consideration.
 - clth_beach
 
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
+
+TO-DO:
+  - add base poses (varioius poses to start)
+  - add animation bases (separate base characters into layers)
+  - more content!
