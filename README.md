@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-![](example.png =800x)
-=======
+
+![](example.png)
+
 ![](example.png)
 *Running in the Godot game engine*
->>>>>>> origin/master
+
 # (WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
