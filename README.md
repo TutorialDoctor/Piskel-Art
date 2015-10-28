@@ -1,7 +1,5 @@
 
 ![](example.png)
-
-![](example.png)
 *Running in the Godot game engine*
 
 # (WIP)
