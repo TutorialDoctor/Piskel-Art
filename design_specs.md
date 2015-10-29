@@ -34,12 +34,25 @@ Here are the pixel height stats for the base character
 
 - 3 block(s) - face
 - 1 blocks(s) - neck
-- 5 blocks(s) - torso
+- 5 or 6 blocks(s) - torso
 - 2 blocks(s) - hip
 - 6 blocks(s) - thigh
 - 7 blocks(s) - shin
 
-= **24**
+= approximately **24**
+
+For base character 2 (32 high is ideal)
+
+- 2 x 4 face (not including hair and ear)
+- 2 x 1 neck
+- 4 x 7 - torso
+- 4 x 2 - hip
+- 1 x 16 - legs
+- 2 x 1 - feet
+- 1 x 0 - arms
+
+= **6 x 33**
+
 
 A few width stats:
 
