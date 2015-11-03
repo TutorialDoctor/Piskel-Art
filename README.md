@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-![](example.png =800x)
-=======
+
+
+
 
 ![](example.png)
->>>>>>> origin/master
+
 *Running in the Godot game engine*
 
 # (WIP)
