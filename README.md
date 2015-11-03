@@ -52,7 +52,7 @@ Base character image removed for consideration.
 
 - prop_tree1_snow
 
-![](Props/prop_crystal1/Animations/anim_prop_crystal1_flicker_256.png =800x)
+![](Props/prop_crystal1/Animations/anim_prop_crystal1_flicker_256.png)
 
 - prop_crystal1
 
