@@ -9,7 +9,7 @@
 # (WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
-If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
+If you want to contribute please follow the [design specifications](design_specs.md) so that the art is consistent. (Design specs are subject to change).
 
 Images of all submitted objects should be updated in the readme using their **256px versions**.
 <hr>
