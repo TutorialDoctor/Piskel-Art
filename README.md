@@ -11,6 +11,10 @@ This is a collaborative, free collection of game assets made with [@piskelapp](h
 
 If you want to contribute please follow the [design specifications](design_specs.md) so that the art is consistent. (Design specs are subject to change).
 
+**Tutorials**
+
+- [Creating Pixel People](https://www.youtube.com/watch?v=gYaIvDQpTtY&feature=youtu.be)
+
 Images of all submitted objects should be updated in the readme using their **256px versions**.
 <hr>
 ## Characters:
