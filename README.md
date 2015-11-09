@@ -1,5 +1,6 @@
 ![](example.png)
 *Running in the Godot game engine*
+<hr>
 
 This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
