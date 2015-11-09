@@ -1,12 +1,6 @@
-
-
-
-
 ![](example.png)
-
 *Running in the Godot game engine*
 
-# (WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
 If you want to contribute please follow the [design specifications](design_specs.md) so that the art is consistent. (Design specs are subject to change).
