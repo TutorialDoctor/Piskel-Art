@@ -114,7 +114,7 @@ A scene is a **collection** of props, environments and characters.
 
 ## Uploading
 <hr>
-- Submit all objects as 32, 256, and 1024 .png **spritesheets**, along with the **.piskel** file.
+- Submit all objects as 32 and 256 .png **spritesheets**, along with the **.piskel** file.
 - Images should be in their respective folders using the following convention:
 	- **objectName_size**
 <hr>
