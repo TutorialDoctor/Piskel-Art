@@ -4,6 +4,8 @@
 
 This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
+- [ ] This collection is much large now. I just have to updated it
+
 If you want to contribute please follow the [design specifications](design_specs.md) so that the art is consistent. (Design specs are subject to change).
 
 ## Video Tutorials
