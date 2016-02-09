@@ -8,6 +8,8 @@ This is a collaborative, free collection of game assets made with [@piskelapp](h
 
 If you want to contribute please follow the [design specifications](design_specs.md) so that the art is consistent. (Design specs are subject to change).
 
+- Play the [Game](https://github.com/TutorialDoctor/TD-Godot-Games/tree/master/Piskel%20Game)
+
 ## Video Tutorials
 
 - [Creating Pixel People](https://www.youtube.com/watch?v=gYaIvDQpTtY&feature=youtu.be)
