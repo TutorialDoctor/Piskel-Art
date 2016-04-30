@@ -1,34 +1,28 @@
 ![](example.png)
-*Running in the Godot game engine*
-<hr>
 
+*Running in the Godot game engine*
+
+# (WIP)
 This is a collaborative, free collection of game assets made with [@piskelapp](https://twitter.com/piskelapp)
 
-- [ ] This collection is much larger now. I just have to updated it
-
-If you want to contribute please follow the [design specifications](design_specs.md) so that the art is consistent. (Design specs are subject to change).
-
-- Play the [Game](https://github.com/TutorialDoctor/TD-Godot-Games/tree/master/Piskel%20Game)
-
-## Video Tutorials
-
-- [Creating Pixel People](https://www.youtube.com/watch?v=gYaIvDQpTtY&feature=youtu.be)
+If you want to contribute please follow to the [design specifications](design_specs.md) so that the art is consistent.
 
 Images of all submitted objects should be updated in the readme using their **256px versions**.
+
+Design specs are subject to change.
 <hr>
 ## Characters:
 
 Base character image removed for consideration.
-[](Characters/chr_base/256/chr_base_256.png)
+
+[](Characters/chr_base_5_m/256/chr_base_5_m_256.png)
+
+[](Characters/chr_base_5_f/256/chr_base_5_f_256.png)
 
 ![](Characters/chr_batman_side/256/chr_batman_side_256.png)
 
 - chr_batman
 
-
-![](Characters/chr_batman_side_2/256/chr_batman_2_side_256.png)
-
-- chr_batman_2
 
 ![](Characters/chr_beach_side/256/chr_beach_side_256.png)
 
@@ -38,6 +32,15 @@ Base character image removed for consideration.
 ![](Characters/chr_scythian_side/256/chr_scythian_side_256.png)
 
 - chr_scythian
+
+![](Characters/chrs_jackAndjill/256/chrs_jackAndjill_256.png)
+
+- chrs_jackAndjill
+
+![](Characters/chrs_animals/256/chrs_animals_256.png)
+
+- chrs_animals
+
 <hr>
 
 ## Props
@@ -55,7 +58,7 @@ Base character image removed for consideration.
 
 - prop_tree1_snow
 
-![](Props/prop_crystal1/Animations/anim_prop_crystal1_flicker_256.png)
+![](Props/prop_crystal1/Animations/anim_prop_crystal1_flicker_256.png =800x)
 
 - prop_crystal1
 
@@ -73,6 +76,7 @@ Base character image removed for consideration.
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
 
 TO-DO:
+
   - add base poses (various poses to start)
   - add animation bases (separate base characters into layers)
   - more content!

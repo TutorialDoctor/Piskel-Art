@@ -13,6 +13,12 @@ Since the head is 3 pixels high, not including the hair, 24 pixels is the *ideal
 		- chr_male_pale
 		- chr_male_fair
 		- chr_male_dark
+		
+- If the file contains more than one character use chrs:
+	- Examples:
+		- chrs_animals
+		- chrs_flowers
+		- chrs_people 	
 
 The **characters** were created *roughly* in this order:
 
@@ -114,9 +120,10 @@ A scene is a **collection** of props, environments and characters.
 
 ## Uploading
 <hr>
-- Submit all objects as 32 and 256 .png **spritesheets**, along with the **.piskel** file.
+- Submit all objects as **256px** .png **spritesheets**, along with the **.piskel** file saved in the 32 x 32 or 64 x 64 size.
 - Images should be in their respective folders using the following convention:
-	- **objectName_size**
+	- **objectName_size.png**
+- Each character should have at least 1 frame for nude, underwear, casual, and formal to start.
 <hr>
 *Yeah, it's all about 8!*
 
