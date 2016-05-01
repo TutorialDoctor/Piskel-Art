@@ -13,8 +13,10 @@ Design specs are subject to change.
 
 View the included objects [here](https://github.com/TutorialDoctor/Piskel-Art/blob/master/objects.md)
 
-
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
+
+## Video Tutorials
+- [Creating Pixel People](https://www.youtube.com/watch?v=gYaIvDQpTtY&feature=youtu.be)
 
 TO-DO:
 
