@@ -26,12 +26,6 @@ There are more characters than previewed below.
 
 ![](./Characters/32x32/chr_batman_side_2/32/chr_batman_2_side_32.png)chr_batman_2_side_32.png
 
-![](./Characters/32x32/chr_beach_side/1024/chr_beach_side_1024.png)chr_beach_side_1024.png
-
-![](./Characters/32x32/chr_beach_side/256/chr_beach_side_256.png)chr_beach_side_256.png
-
-![](./Characters/32x32/chr_beach_side/32/chr_beach_side_32.png)chr_beach_side_32.png
-
 ![](./Characters/32x32/chr_capeWoman/chr_capeWoman_256.png)chr_capeWoman_256.png
 
 ![](./Characters/32x32/chr_capeWoman/chr_capeWoman_32.png)chr_capeWoman_32.png
