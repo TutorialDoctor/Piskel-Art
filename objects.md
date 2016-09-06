@@ -158,7 +158,6 @@ There are more characters than previewed below.
 
 ![](./Characters/64x64/chr_f_barbie/chr_f_barbie.png)chr_f_barbie.png
 
-![](./Characters/64x64/chr_f_beachgirl_64/chr_f_beachgirl_64.png)chr_f_beachgirl_64.png
 
 ![](./Characters/64x64/chr_f_bootlady/chr_f_bootlady_256.png)chr_f_bootlady_256.png
 
