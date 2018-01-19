@@ -9,7 +9,7 @@
 
 **Note**: When trying to figure out shapes, I usually outline the muscles with contrasting color and then fill in the shape with either the flesh or clothing tones (see the pants with the white outlines).
 
-**Note:** I googled "pose" to find a pose to work with from.
+**Note:** I googled "pose" to find a pose to work from.
 
 [Download Piskel File](https://drive.google.com/open?id=0B__SxPD_FJB7cnNsTWNlM2VMQ1E)
 
