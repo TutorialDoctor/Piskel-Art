@@ -17,6 +17,7 @@ View the included objects [here](https://github.com/TutorialDoctor/Piskel-Art/bl
 
 ## Video Tutorials
 - [Creating Pixel People](https://www.youtube.com/watch?v=gYaIvDQpTtY&feature=youtu.be)
+- [Animating a Walk Cycle](https://www.youtube.com/watch?v=Np0oAZyBd0k)
 
 TO-DO:
 
